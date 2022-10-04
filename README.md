@@ -24,7 +24,7 @@ Land use is measured in meters squared per kilogram of a food product.
 
 The total land used per kilogram of food was again very heavily taken by meat and more specifically beef. Beef products accounted for 4 out of the top 5 products for the amount of land used per kilogram of product. An interesting thing to note is that the top 5 land using products account for 43% of the total land usage of all the food products.
 
-![land_users]()
+![land_users](https://github.com/bmcnamee96/food_impact/blob/main/Pictures/landuse.png)
 
 The top 5 land using food products are:
     1) Beef Steak (427.33 m^2)
