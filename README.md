@@ -13,7 +13,7 @@ Emissions are measured in carbon dioxide equivalents and their impact and warmin
 
 - Beef is the largest emittor of emissons per kilogram of food.  There are 6 different categories that beef is in and all have a large impact on the emissions. This can be seen in Tableau emissions chart, that shows four different types of beef at the top. Overall, the beef emissions totals 369.2 per kilogram of food product and averages 61.53 per kilogram of food product.
 
-![beef_emissions]()
+![beef_emissions](https://github.com/bmcnamee96/food_impact/blob/main/Pictures/animal_emissions.png)
 
 - Meat in general has a huge impact on emissions. Animal produce has an average emissions of 20.29 per kilogram of food product and is 5 times more than plant produce which has an average emissions of 3.98 per kilogram of food product.
 
