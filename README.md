@@ -38,6 +38,12 @@ Dark chocolate, when compared to other plant products uses a very large amount o
 ### Eutrophication
 Eutrophication is the increase of nutrients into local water sources. In this study, eutrophication is seen as a bad thing because too many nutrients are leaking into the environment and is measured in grams of phosphate or equivalent nutrients.
 
+Beef has the largest impact on local water sources per kilogram of product. 
+
+![eutrophication](https://github.com/bmcnamee96/food_impact/blob/main/Pictures/eutrophication.png)
+
+Eutrophication from beef products includes cow manure, fertilizer and any other runoff coming from farmland.  Cow manure is high in nutrients meaning that when this gets into local waterways, it will have a large eutrophication impact. The main source of plant product eutrophication is from fertilizer runoff which is why it is normally lower than animal products.
+
 ### Water Withdrawals
 Freshwater withdrawals are measured in liters per kilogram of food product.
 
@@ -46,3 +52,5 @@ Water scarcity is a measure of water withdrawals when compared to local water sc
 
 ### Biodiversity Impacts
 This is a measure of how impactful the farming of the food product is on the surrounding biodiversity.
+
+## Conclusion
