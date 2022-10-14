@@ -49,7 +49,7 @@ Freshwater withdrawals are measured in liters per kilogram of food product.
 
 Surprisingly, seafood is one of the largest freshwater withdrawals out of all the food products. This chart compares the average water withdrawals of all meat products.  Seafood products occupy the top three spots of meat products.
 
-![water_withdrawals_meat](https://github.com/bmcnamee96/food_impact/blob/main/Pictures/water_withdrawals_meat.png)
+![water_withdrawals_meat](https://github.com/bmcnamee96/food_impact/blob/main/Pictures/water_withdrawals.png)
 
 Overall, water withdrawal impact are more evenly spread between plant and animal products.  
 
