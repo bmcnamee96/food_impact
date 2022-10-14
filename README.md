@@ -47,6 +47,23 @@ Eutrophication from beef products includes cow manure, fertilizer and any other 
 ### Water Withdrawals
 Freshwater withdrawals are measured in liters per kilogram of food product.
 
+Surprisingly, seafood is one of the largest freshwater withdrawals out of all the food products. This chart compares the average water withdrawals of all meat products.  Seafood products occupy the top three spots of meat products.
+
+![water_withdrawals_meat](https://github.com/bmcnamee96/food_impact/blob/main/Pictures/water_withdrawals_meat.png)
+
+Overall, water withdrawal impact are more evenly spread between plant and animal products.  
+
+The top 5 water withdrawal products are:
+    1) Almond butter (6,846.47 l/kg)
+    2) Almonds (6,413.31 l/kg)
+    3) Mackerel (3,961.72 l/kg)
+    4) Tuna (3,771.40 l/kg)
+    5) Cashew nuts (3,504.34 l/kg)
+    
+Plant products have a much larger impact on the environment when it comes to water withdrawals.
+
+![water_withdrawals_plant_v_animal](https://github.com/bmcnamee96/food_impact/blob/main/Pictures/water_withdrawals_plantvanimal.png)
+
 ### Water Scarcity
 Water scarcity is a measure of water withdrawals when compared to local water scarcity.  It is measureed in liters per kilogram of food product.
 
