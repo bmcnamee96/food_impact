@@ -26,12 +26,12 @@ The total land used per kilogram of food was again very heavily taken by meat an
 
 ![land_users](https://github.com/bmcnamee96/food_impact/blob/main/Pictures/landuse.png)
 
-The top 5 land using food products are:
-    1) Beef Steak (427.33 m^2)
-    2) Beef Mince (295.25 m^2)
-    3) Beef Meatballs (215 m^2)
-    4) Beef Burger (135.35 m^2)
-    5) Dark Chocolate (48.79 m^2)
+The top 5 land using food products are: <br />
+    1) Beef Steak (427.33 m²) <br />
+    2) Beef Mince (295.25 m²) <br />
+    3) Beef Meatballs (215 m²) <br />
+    4) Beef Burger (135.35 m²) <br />
+    5) Dark Chocolate (48.79 m²) <br />
 
 Dark chocolate, when compared to other plant products uses a very large amount of land.  The top 5 does drop off fairly quickly from Beef Steak to Dark Chocolate but it is interesting to note that a plant product can have a large impact.
 
@@ -53,12 +53,12 @@ Surprisingly, seafood is one of the largest freshwater withdrawals out of all th
 
 Overall, water withdrawal impact are more evenly spread between plant and animal products.  
 
-The top 5 water withdrawal products are:
-    1) Almond butter (6,846.47 l/kg)
-    2) Almonds (6,413.31 l/kg)
-    3) Mackerel (3,961.72 l/kg)
-    4) Tuna (3,771.40 l/kg)
-    5) Cashew nuts (3,504.34 l/kg)
+The top 5 water withdrawal products are: <br /> 
+    1) Almond butter (6,846.47 l/kg) <br />
+    2) Almonds (6,413.31 l/kg) <br />
+    3) Mackerel (3,961.72 l/kg) <br />
+    4) Tuna (3,771.40 l/kg) <br />
+    5) Cashew nuts (3,504.34 l/kg) <br />
     
 Plant products have a much larger impact on the environment when it comes to water withdrawals.
 
