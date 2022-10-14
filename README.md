@@ -67,6 +67,17 @@ Plant products have a much larger impact on the environment when it comes to wat
 ### Water Scarcity
 Water scarcity is a measure of water withdrawals when compared to local water scarcity.  It is measureed in liters per kilogram of food product.
 
+In line with water withdrawals, almond butter and almonds are the top two culprits of water scarcity. Plant produce seems to have more impact on water scarcity, meaning that plant farming happens in more arid and dry climates. In order to water and grow the crops there needs to be a lot of water withdrawals and because the surrounding environment is dry, the scarcity score goes up.
+
+![water_scarcity](https://github.com/bmcnamee96/food_impact/blob/main/Pictures/water_scarcity.png)
+
+The top 5 water scarcity products are: <br />
+    1) Almond butter (402,211.96 l/kg) <br />
+    2) Almonds (372,799.10 l/kg) <br />
+    3) Cashew nuts (163,311.32 l/kg) <br />
+    4) Walnuts (160,556.44 l/kg) <br />
+    5) Brazil nuts (145,555.74 l/kg) <br />
+
 ### Biodiversity Impacts
 This is a measure of how impactful the farming of the food product is on the surrounding biodiversity.
 
