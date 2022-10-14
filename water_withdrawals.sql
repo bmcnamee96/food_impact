@@ -126,3 +126,13 @@ JOIN food_data as fd
 ON fn.id = fd.id
 WHERE fn.name NOT LIKE 'Chicken%' AND fn.name NOT LIKE 'Lamb%' AND fn.name NOT LIKE 'Goat%' AND fn.name NOT LIKE 'Pork%' AND fn.name NOT LIKE 'Beef%'
 AND fn.name NOT LIKE 'Cod%' AND fn.name NOT LIKE 'Haddock%' AND fn.name NOT LIKE 'Mackerel%' AND fn.name NOT LIKE 'Prawn%' AND fn.name NOT LIKE 'Salmon%' AND fn.name NOT LIKE 'Tuna%';
+
+-- Water withdrawals for all products
+SELECT 
+fn.name,
+fd.water_withdrawals_kilogram
+FROM food_name as fn
+JOIN food_data as fd
+ON fn.id = fd.id
+ORDER BY fd.water_withdrawals_kilogram;
+
