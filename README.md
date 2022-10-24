@@ -78,7 +78,20 @@ The top 5 water scarcity products are: <br />
     4) Walnuts (160,556.44 l/kg) <br />
     5) Brazil nuts (145,555.74 l/kg) <br />
 
-### Biodiversity Impacts
-This is a measure of how impactful the farming of the food product is on the surrounding biodiversity.
-
 ## Conclusion
+In conclusion, animal produce, on average has more of an impact on the environment than plant produce. Beef is the leader in emissions, land usage, and eutrophication.  Plants have more of an impact on the local environment due to their water usages and withdrawals in regards to the surrounding areas water sources. Plant products can come from arid climates meaning that whatever withdrawals they make from the surrounding environment, will have a large impact. This can be seen with almonds and cashews who rank within the top 5 for water withdrawals and water scarcity.
+
+There were 11 different types of animal product categories that held 36 different animal products.
+    1) Haddock <br />
+    2) Chicken <br />
+    3) Salmon <br />
+    4) Lamb <br />
+    5) Cod <br />
+    6) Pork <br />
+    7) Prawn <br />
+    8) Tuna <br />
+    9) Goat <br />
+    10) Mackerel <br />
+    11) Beef <br />
+    
+You can see from the rankings that there is no difference between land and sea animals when it comes to impact on the environment.
