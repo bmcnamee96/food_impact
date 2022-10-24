@@ -1,6 +1,6 @@
 # The Impact of Food on the Environment
 
-### Using PostgreSQL a data analysis project was created looking at the environmental impact that different foods have on the environment. Data was taken from 'Our World in Data' as a CSV file and imported into PostgreSQL. Tableau was used to make easy to understand graphics using the SQL database.
+### Using PostgreSQL a data analysis project was created looking at the environmental impact that different foods have on the environment. Data was taken from 'Our World in Data' as a CSV file and imported into PostgreSQL. Excel was used to make charts from the analyzed data.
 
 ## The Data
 ### The data included two separate tables (food_name and food_data). 
