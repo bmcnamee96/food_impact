@@ -81,7 +81,7 @@ The top 5 water scarcity products are: <br />
 ## Conclusion
 In conclusion, animal produce, on average has more of an impact on the environment than plant produce. Beef is the leader in emissions, land usage, and eutrophication.  Plants have more of an impact on the local environment due to their water usages and withdrawals in regards to the surrounding areas water sources. Plant products can come from arid climates meaning that whatever withdrawals they make from the surrounding environment, will have a large impact. This can be seen with almonds and cashews who rank within the top 5 for water withdrawals and water scarcity.
 
-There were 11 different types of animal product categories that held 36 different animal products.
+There were 11 different types of animal product categories that held 36 different animal products. <br />
     1) Haddock <br />
     2) Chicken <br />
     3) Salmon <br />
